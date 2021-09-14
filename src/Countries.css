@@ -1,0 +1,18 @@
+.countries-wrapper {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.card-wrapper {
+    margin: 3% 1%;
+    padding: 0;
+}
+
+.card-body {
+    text-align: left;
+}
+
+.card-body > p {
+    margin: 0;
+}
